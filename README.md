@@ -1,5 +1,12 @@
+<!--
 ### Hi there 👋!   
 ### I'm ✨ Katy Kam ✨
+-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+!;I'm+✨+Katy+Kam+✨;I'm+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+
+
+![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katyky14)
 
 <!--
 **katyky14/katyky14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
