@@ -3,7 +3,7 @@
 ### I'm ✨ Katy Kam ✨
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+!;I'm+✨+Katy+Kam+✨;I'm+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋+!;I'm+✨+Katy+Kam+✨;I'm+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 
 ![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katyky14)
