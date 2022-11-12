@@ -29,7 +29,7 @@ I recently graduated from App Academy, and I have a background in Business. As a
 
 In the bootcamp I got to learn two languages Javascript and Python. I also learned some frameworks and databases like React, Redux, Flask, Sequelize, PostgresSQL, SQLAlchemy. With these knowledeges I was able to build three full-stack clone projects Airbnb, Etsy and Yelp. 
 
-There is a long way for me to become a good developer, but I have loved the challenges and the logic behind every code. It has been a journey full of joy and frustation. It is journey that I want to embrace for a good amount of my life. 
+There is a long way for me to become a good developer, but I have loved the challenges and the logic behind every code. It has been a journey full of joy and frustation. It is journey that I to continue to explore bringing a better online world with my skills and my persona. 
 
 
 ### Languages
