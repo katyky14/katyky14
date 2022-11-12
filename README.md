@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
+### About Me
+
+I recently graduated from App Academy, and I have a background in Business. As a busineswoman I always put the customer needs first. When Pandemic hit, I started to see a bigger shift and need for online customer needs. I also always had interested in computers and how it works, although most of my interaction with the computer was for gaming or watching anime or asian dramas. During Pandemic I took some classes for html and css and my interest into computer grew. So I decided to enroll into a bootcamp.
+
+In the bootcamp I got to learn two languages Javascript and Python. I also learned some frameworks and databases like React, Redux, Flask, Sequelize, PostgresSQL, SQLAlchemy. With these knowledeges I was able to build three full-stack clone projects Airbnb, Etsy and Yelp. 
+
+There is a long way for me to become a good developer, but I have loved the challenges and the logic behind every code. It has been a journey full of joy and frustation. It is journey that I want to embrace for a good amount of my life. 
+
 
 ### Languages
 
