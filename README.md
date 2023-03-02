@@ -3,7 +3,9 @@
 ### I'm ✨ Katy Kam ✨
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋+!;I'm+✨+Katy+Kam+✨;I'm+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+👋+!;I'm+✨+Katy+Kam+✨;I'm+Full+Stack+Software+Engineer)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&width=435&lines=Hi+there+%F0%9F%91%8B!+;I'm+%E2%9C%A8+Katy+Kam+%E2%9C%A8;I'm+a+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 
 ![Katy's GitHub stats](https://github-readme-stats.vercel.app/api?username=katyky14)
